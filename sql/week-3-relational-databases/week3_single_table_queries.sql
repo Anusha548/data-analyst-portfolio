@@ -1,4 +1,3 @@
-
 -- WEEK 3: 25 SINGLE-TABLE SQL QUERIES
 -- Database: SQLite
 -- Table: sales_data_recovered
