@@ -40,35 +40,22 @@ Quantity — used to calculate units sold.
 
 ## Common Business Metrics
 
-Metric
+Metric | Definition
 
-Definition
+Total Sales | Sum of all sales values.
 
-Total Sales
+Total Profit | Sum of all profit values.
 
-Sum of all sales values.
+Total Quantity | Sum of all units sold.
 
-Total Profit
+Average Sales | Average sales value per row.
 
-Sum of all profit values.
+Profit Margin (%) | Total Profit divided by Total Sales, multiplied by 100.
 
-Total Quantity
+Order Count | Count of distinct order IDs, when each ID represents an order.
 
-Sum of all units sold.
-
-Average Sales
-
-Average sales value per row.
-
-Profit Margin (%)
-
-Total Profit divided by Total Sales, multiplied by 100.
-
-Order Count
-
-Count of distinct order IDs, when each ID represents an order.
 ## Data Quality and Assumptions
-
+ 
 - The source data should remain unchanged.
 - Confirm the actual row count before analysis.
 - Check for missing values, duplicate identifiers, and invalid numeric values.
