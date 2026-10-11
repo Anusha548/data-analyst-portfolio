@@ -14,7 +14,7 @@
 | Column | Recommended Type | Meaning | Key / Role | Notes |
 |---|---|---|---|---|
 | `Order_ID` | INTEGER | Identifier for an order | Potential primary key | Verify uniqueness before treating it as a primary key |
-| `Order_Date` | TEXT | Date of the order | Date attribute | Prefer `YYYY-MM-DD` format |
+| `Order_Date` | TEXT | Date of the order | Date attribute | Prefer `DD-MM-YYYY` format |
 | `Customer` | TEXT | Customer name | Descriptive attribute | Check for missing values |
 | `Region` | TEXT | Sales region | Dimension attribute | Expected values include North, South, East, West |
 | `Product` | TEXT | Product name | Descriptive attribute | Used to analyze product sales |
