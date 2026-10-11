@@ -26,33 +26,17 @@
 ## Dimensions and Measures
 ## Dimensions
 
-Order_Date — used for time-based analysis.
-Customer — used for customer-level analysis.
-Region — used for regional comparisons.
-Product — used for product-level analysis.
-Category — used for category-level analysis.
+**Order_Date** — used for time-based analysis.
+**Customer** — used for customer-level analysis.
+**Region** — used for regional comparisons.
+**Product** — used for product-level analysis.
+**Category** — used for category-level analysis.
 
 ## Measures
 
-Sales — used to calculate total revenue.
-Profit — used to calculate total profit.
-Quantity — used to calculate units sold.
-
-## Common Business Metrics
-
-Metric | Definition
-
-Total Sales | Sum of all sales values.
-
-Total Profit | Sum of all profit values.
-
-Total Quantity | Sum of all units sold.
-
-Average Sales | Average sales value per row.
-
-Profit Margin (%) | Total Profit divided by Total Sales, multiplied by 100.
-
-Order Count | Count of distinct order IDs, when each ID represents an order.
+**Sales** — used to calculate total revenue.
+**Profit** — used to calculate total profit.
+**Quantity** — used to calculate units sold.
 
 ## Data Quality and Assumptions
  
