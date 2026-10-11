@@ -23,7 +23,6 @@
 | `Profit` | REAL | Profit amount | Measure | Used for profit analysis |
 | `Quantity` | INTEGER | Number of units | Measure | Should contain whole numbers |
 
-## Dimensions and Measures
 ## Dimensions
 
 **Order_Date** — used for time-based analysis.
